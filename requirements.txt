@@ -1,0 +1,16 @@
+# LangChain Packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-huggingface
+langgraph
+- - - -
+sentence-transformers
+ollama
+faiss-cpu
+pypdf
+python-dotenv
+tiktoken
+streamlit
