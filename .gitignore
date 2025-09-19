@@ -6,9 +6,7 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-docs/
-data/knowledge_base/
-*.pdf
+data/
 vector_store/
 .vscode/
 .idea/
